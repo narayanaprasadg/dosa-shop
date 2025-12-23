@@ -7,5 +7,5 @@
   
 # Karam-dosa
   Dosa Batter
-  karam
+  Erra karam
   oil
